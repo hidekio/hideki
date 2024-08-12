@@ -1,0 +1,38 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(173, 173, 173);
+}
+
+.center {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+
+.caixa {
+    position: relative;
+    top: 50px;
+    left: 600px;
+    height: 20px;
+    width: 600px;
+    background: transparent;
+    border: 2px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 100px 40px;
+
+
+}
+
+.center {
+
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+input{
+    border-radius: 100px;
+}
